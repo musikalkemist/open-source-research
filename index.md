@@ -1,6 +1,4 @@
-# OpenSource Research
-
-_OpenSource Research _is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
+*OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
 The members of _The Sound of AI_ community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
 
@@ -17,7 +15,7 @@ The project has a number of research-oriented goals:
 
 ## Who can get involved?
 
-Everyone in _The Sound of AI_ community can contribute to _OpenSource Research_, regardless of your skillset. 
+Everyone in *The Sound of AI* community can contribute to _OpenSource Research_, regardless of your skillset. 
 
 In this research project, there will be many different tasks, such as coding, testing algorithms, evaluating models, writing up research, proofreading, managing the project, …. 
 
@@ -36,7 +34,7 @@ Depending on your skillset you can contribute to one or more of these activities
 *   Writing code
 *   Testing code
 *   Writing documentation
-*   Evaluating models by running _in-silico _experiments
+*   Evaluating models by running *in-silico* experiments
 *   Running user studies to evaluate models
 *   Searching for datasets online / building a dataset
 *   Cleaning / preprocessing data
@@ -47,7 +45,7 @@ Depending on your skillset you can contribute to one or more of these activities
 
 ## What do I get by participating?
 
-For members less experienced in research, _OpenSource Research _is a great opportunity to:
+For members less experienced in research, *OpenSource Research* is a great opportunity to:
 
 *   Learn how to write research papers
 *   Learn how to carry out research from scratch and manage research projects
@@ -61,7 +59,7 @@ For more experienced members, this project is an opportunity to:
 *   Network with other researchers
 *   Experiment a new way of doing research
 
-For everyone, _OpenSource Research _is an opportunity to: 
+For everyone, *OpenSource Research* is an opportunity to: 
 
 *   Be part of a unique research experiment that may have a transformative impact on the wider academic community
 *   Work on a super cool research topic
@@ -71,11 +69,11 @@ For everyone, _OpenSource Research _is an opportunity to:
 
 ## How can I get involved?
 
-To get involved with _OpenSource Research_, follow these steps:
+To get involved with *OpenSource Research*, follow these steps:
 
 1. Fill up this survey. 
 2. Sign up to_ The Sound of AI Slack_ workspace, if you aren’t already a member of the community.
-3. If you’re a member of _The Sound of AI Slack_, subscribe to the _#open-source-research channel._ Communication about the project will happen there.
+3. If you’re a member of *The Sound of AI Slack*, subscribe to the *#open-source-research* channel. Communication about the project will happen there.
 4. Once you have submitted the survey, Valerio will send you an email with further instructions. 
 5. Valerio will add you to all the services used to carry out research (Google Drive, Trello, ...) -- see Tools section for more info.
 
