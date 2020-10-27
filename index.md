@@ -82,7 +82,7 @@ Please note that Valerio will send out emails / add members to services in batch
 
 ## Project tools
 
-_OpenSource Research _is a complex project. It will use a number of different online tools to enable contributors to collaborate, brainstorm, and interact.  
+*OpenSource Research* is a complex project. It will use a number of different online tools to enable contributors to collaborate, brainstorm, and interact.  
 
 
 ### The Sound of AI Slack
