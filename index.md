@@ -72,10 +72,10 @@ For everyone, *OpenSource Research* is an opportunity to:
 To get involved with *OpenSource Research*, follow these steps:
 
 1. Fill up this survey. 
-2. Sign up to_ The Sound of AI Slack_ workspace, if you aren’t already a member of the community.
+2. Sign up to *The Sound of AI Slack* workspace, if you aren’t already a member of the community.
 3. If you’re a member of *The Sound of AI Slack*, subscribe to the *#open-source-research* channel. Communication about the project will happen there.
 4. Once you have submitted the survey, Valerio will send you an email with further instructions. 
-5. Valerio will add you to all the services used to carry out research (Google Drive, Trello, ...) -- see Tools section for more info.
+5. Valerio will add you to all the services used to carry out research (Google Drive, Trello, etc) -- see "Project tools" section for more info.
 
 Please note that Valerio will send out emails / add members to services in batches, once per week. 
 
@@ -116,9 +116,9 @@ Trello is an easy-to-use online project management tool that follows the [Kanban
 Miro is a collaborative online whiteboard platform designed for remote and distributed teams. It will be used for brainstorming sessions. Here is a YouTube playlist with introductory [Miro tutorials](https://www.youtube.com/watch?v=7L1-0DOGHDY&list=PLmiHe0R4hbzRbpqJVs2HllnjhrTeiDVsE).
 
 
-### Google Meet
+### Zoom
 
-Google Meet will be used to host conference calls.
+Zoom will be used to host conference calls for brainstorming and catch-up sessions.
 
 
 ## Project roles
@@ -127,7 +127,7 @@ Valerio will coordinate the research project, and will choose the overall direct
 
 Depending on the need, Valerio will appoint experienced members of the community as administrators, who can help manage different aspects of the project. 
 
-Contributors will steer all the aspects of the research project (e.g., topic selection, solution design / implementation, evaluation, ...). They will be involved at all levels, from ideation to implementation. 
+Contributors will steer all the aspects of the research project (e.g., topic selection, solution design / implementation, evaluation, etc). They will be involved at all levels, from ideation to implementation. 
 
 
 ## Project steps
@@ -193,6 +193,14 @@ Even though it is difficult to come up with a reliable timeline at this point, I
 All the work produced (e.g., code, databases, algorithms) will be distributed using the [MIT License](https://en.wikipedia.org/wiki/MIT_License). 
 
 The authors of the paper will be Valerio and The Sound of AI community.
+
+
+## Netiquette
+
+*   Be always respectful 
+*   Be kind
+*   Be supportive
+*   Try to give more than ask
 
 
 ## Questions about research processes
