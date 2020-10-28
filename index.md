@@ -85,38 +85,38 @@ Please note that Valerio will send out emails / add members to services in batch
 *OpenSource Research* is a complex project. It will use a number of different online tools to enable contributors to collaborate, brainstorm, and interact.  
 
 
-### The Sound of AI Slack
+#### The Sound of AI Slack
 
 _The Sound of AI Slack_ workspace is the main venue where conversation among contributors happens. Here members can find announcements, talk to each other, and share resources. 
 
 All the conversations regarding the project will happen in the _#open-source-research_ channel. 
 
 
-### Google Drive
+#### Google Drive
 
 A dedicated folder on Google Drive will be used to store materials relevant for the research project (e.g., papers, data).
 
-### Google Doc
+#### Google Doc
 
 Google Doc will be used to collaborate on the write-up of the paper. Members will be provided with “suggesting” privileges. Valerio (or administrators) will integrate text written by contributors. 
 
 
-### GitHub
+#### GitHub
 
 A [Github repository](https://github.com/musikalkemist/open-source-research) will be used to collaborate on the code developed for the project.
 
 
-### [Trello](https://trello.com/)
+#### [Trello](https://trello.com/)
 
 Trello is an easy-to-use online project management tool that follows the [Kanban](https://it.wikipedia.org/wiki/Kanban) system. Trello will help organise the work in modular tasks, keep track of the status of different tasks, and of who is working on them. Here is a [tutorial](https://trello.com/b/I7TjiplA/trello-tutorial) that gets you started with Trello.
 
 
-### [Miro](https://miro.com/)
+#### [Miro](https://miro.com/)
 
 Miro is a collaborative online whiteboard platform designed for remote and distributed teams. It will be used for brainstorming sessions. Here is a YouTube playlist with introductory [Miro tutorials](https://www.youtube.com/watch?v=7L1-0DOGHDY&list=PLmiHe0R4hbzRbpqJVs2HllnjhrTeiDVsE).
 
 
-### Zoom
+#### Zoom
 
 Zoom will be used to host conference calls for brainstorming and catch-up sessions.
 
@@ -142,36 +142,36 @@ It is worth noting that these are general indications, which may be re-adjusted 
 In this phase, contributors will choose a topic that is in line with the scope of _The 2021 Joint Conference on AI Music Creativity._ 
 
 
-### Literature review
+#### 1. Literature review
 
 During this step, contributors will gather, analyse, and discuss papers from the scientific literature that are related to the topic of interest. They will outline existing weaknesses and limitations in current solutions and suggest what is missing. 
 
 
-### Solution design
+#### 2. Solution design
 
 In this step, contributors will have brainstorming sessions in order to come up with tentative solutions that address the chosen topic / problem. 
 
 
-### Solution implementation
+#### 3. Solution implementation
 
 In this phase, contributors will develop the solution. This will likely be in the form of code.
 
 
-### Evaluation
+#### 4. Evaluation
 
 During this step, members will evaluate the validity of the proposed solution. Depending on the chosen topic, this will happen in different ways. For example, the proposed model(s) can be tested against other base-line solutions, or they can be evaluated using user studies.
 
 
-### Write up
+#### 5. Write up
 
 In this phase, contributors will write up the research they carried out.
 
-### Submission
+#### 6. Submission
 
 The paper will finally be submitted to _The 2021 Joint Conference on AI Music Creativity._ 
 
 
-### Revisions
+#### 7. Revisions
 
 In this phase, contributors will address the concerns of the reviewers and resubmit the improved paper.
 
