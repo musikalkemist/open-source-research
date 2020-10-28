@@ -35,7 +35,7 @@ Depending on your skillset you can contribute to one or more of these activities
 *   Testing code
 *   Writing documentation
 *   Evaluating models by running *in-silico* experiments
-*   Running user studies to evaluate models
+*   Designing / running user studies to evaluate models
 *   Searching for datasets online / building a dataset
 *   Cleaning / preprocessing data
 *   Managing the project
@@ -82,43 +82,48 @@ Please note that Valerio will send out emails / add members to services in batch
 
 ## Project tools
 
-*OpenSource Research* is a complex project. It will use a number of different online tools to enable contributors to collaborate, brainstorm, and interact.  
+*OpenSource Research* is a complex project. It will use a number of different online tools to enable contributors to communicate, collaborate, and manage the work.  
 
+#### Communication
 
-#### The Sound of AI Slack
+##### The Sound of AI Slack
 
 _The Sound of AI Slack_ workspace is the main venue where conversation among contributors happens. Here members can find announcements, talk to each other, and share resources. 
 
 All the conversations regarding the project will happen in the _#open-source-research_ channel. 
 
+##### OpenSource Research mailing list
 
-#### Google Drive
+The mailing list will be used to share general news, and let contributors know about upcoming meetups.
+
+##### Zoom
+
+Zoom will be used to host conference calls for brainstorming and catch-up sessions.
+
+#### Collaboration
+
+##### Google Drive
 
 A dedicated folder on Google Drive will be used to store materials relevant for the research project (e.g., papers, data).
 
-#### Google Doc
+##### Google Doc
 
 Google Doc will be used to collaborate on the write-up of the paper. Members will be provided with “suggesting” privileges. Valerio (or administrators) will integrate text written by contributors. 
 
-
-#### GitHub
+##### GitHub
 
 A [Github repository](https://github.com/musikalkemist/open-source-research) will be used to collaborate on the code developed for the project.
 
+##### Miro
 
-#### [Trello](https://trello.com/)
-
-Trello is an easy-to-use online project management tool that follows the [Kanban](https://it.wikipedia.org/wiki/Kanban) system. Trello will help organise the work in modular tasks, keep track of the status of different tasks, and of who is working on them. Here is a [tutorial](https://trello.com/b/I7TjiplA/trello-tutorial) that gets you started with Trello.
-
-
-#### [Miro](https://miro.com/)
-
-Miro is a collaborative online whiteboard platform designed for remote and distributed teams. It will be used for brainstorming sessions. Here is a YouTube playlist with introductory [Miro tutorials](https://www.youtube.com/watch?v=7L1-0DOGHDY&list=PLmiHe0R4hbzRbpqJVs2HllnjhrTeiDVsE).
+[Miro](https://miro.com/) is a collaborative online whiteboard platform designed for remote and distributed teams. It will be used for brainstorming sessions. Here is a YouTube playlist with introductory [Miro tutorials](https://www.youtube.com/watch?v=7L1-0DOGHDY&list=PLmiHe0R4hbzRbpqJVs2HllnjhrTeiDVsE).
 
 
-#### Zoom
+#### Project management
 
-Zoom will be used to host conference calls for brainstorming and catch-up sessions.
+##### Trello
+
+[Trello](https://trello.com/) is an easy-to-use online project management tool that follows the [Kanban](https://it.wikipedia.org/wiki/Kanban) system. Trello will help organise the work in modular tasks, keep track of the status of different tasks, and of who is working on what. Here is a [tutorial](https://trello.com/b/I7TjiplA/trello-tutorial) that gets you started with Trello.
 
 
 ## Project roles
