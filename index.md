@@ -137,41 +137,41 @@ The project will be organised in a number of steps. Some of the steps may run in
 It is worth noting that these are general indications, which may be re-adjusted based on the needs and specificity of the chosen research topic.
 
 
-### Topic selection
+#### 1. Topic selection
 
 In this phase, contributors will choose a topic that is in line with the scope of _The 2021 Joint Conference on AI Music Creativity._ 
 
 
-#### 1. Literature review
+#### 2. Literature review
 
 During this step, contributors will gather, analyse, and discuss papers from the scientific literature that are related to the topic of interest. They will outline existing weaknesses and limitations in current solutions and suggest what is missing. 
 
 
-#### 2. Solution design
+#### 3. Solution design
 
 In this step, contributors will have brainstorming sessions in order to come up with tentative solutions that address the chosen topic / problem. 
 
 
-#### 3. Solution implementation
+#### 4. Solution implementation
 
 In this phase, contributors will develop the solution. This will likely be in the form of code.
 
 
-#### 4. Evaluation
+#### 5. Evaluation
 
 During this step, members will evaluate the validity of the proposed solution. Depending on the chosen topic, this will happen in different ways. For example, the proposed model(s) can be tested against other base-line solutions, or they can be evaluated using user studies.
 
 
-#### 5. Write up
+#### 6. Write up
 
 In this phase, contributors will write up the research they carried out.
 
-#### 6. Submission
+#### 7. Submission
 
 The paper will finally be submitted to _The 2021 Joint Conference on AI Music Creativity._ 
 
 
-#### 7. Revisions
+#### 8. Revisions
 
 In this phase, contributors will address the concerns of the reviewers and resubmit the improved paper.
 
