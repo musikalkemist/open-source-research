@@ -71,10 +71,10 @@ For everyone, *OpenSource Research* is an opportunity to:
 
 To get involved with *OpenSource Research*, follow these steps:
 
-1. Fill up this survey. 
+1. Fill up [this survey](https://forms.gle/BY1WMbKeSrhcQMcd8). 
 2. Sign up to *The Sound of AI Slack* workspace, if you aren’t already a member of the community.
 3. If you’re a member of *The Sound of AI Slack*, subscribe to the *#open-source-research* channel. Communication about the project will happen there.
-4. Once you have submitted the survey, Valerio will send you an email with further instructions. 
+4. Once you have submitted the survey, Valerio will send you an email with further instructions and a link to sign-up to *The Sound of AI* Slack. 
 5. Valerio will add you to all the services used to carry out research (Google Drive, Trello, etc) -- see "Project tools" section for more info.
 
 Please note that Valerio will send out emails / add members to services in batches, once per week. 
@@ -103,7 +103,7 @@ Google Doc will be used to collaborate on the write-up of the paper. Members wil
 
 ### GitHub
 
-A Github repository will be used to collaborate on the code developed for the project.
+A [Github repository](https://github.com/musikalkemist/open-source-research) will be used to collaborate on the code developed for the project.
 
 
 ### [Trello](https://trello.com/)
