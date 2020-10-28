@@ -1,6 +1,6 @@
 *OpenSource Research* is an experimental project which aims to create a piece of collaborative research in the field of AI music. 
 
-The members of _The Sound of AI_ community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
+The members of [_The Sound of AI_](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ) community collaborate to carry out research, following the philosophy and practices of [open source software](https://en.wikipedia.org/wiki/Open-source_software) and [open research](https://en.wikipedia.org/wiki/Open_research). 
 
 
 ## Project goals
