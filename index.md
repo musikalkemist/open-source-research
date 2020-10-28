@@ -200,7 +200,7 @@ The authors of the paper will be Valerio and The Sound of AI community.
 *   Be always respectful 
 *   Be kind
 *   Be supportive
-*   Try to give more than ask
+*   Try to give more than take
 
 
 ## Questions about research processes
