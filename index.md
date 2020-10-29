@@ -108,7 +108,7 @@ A dedicated folder on Google Drive will be used to store materials relevant for 
 
 ##### Google Doc
 
-Google Doc will be used to collaborate on the write-up of the paper. Members will be provided with “suggesting” privileges. Valerio (or administrators) will integrate text written by contributors. 
+Google Doc will be used to collaborate on the write-up of the paper. Members will be provided with “suggesting” privileges. Valerio (or lead researchers) will integrate text written by contributors. 
 
 ##### GitHub
 
@@ -130,7 +130,7 @@ A [Github repository](https://github.com/musikalkemist/open-source-research) wil
 
 Valerio will coordinate the research project, and will choose the overall direction of the project based on the input coming from contributors. 
 
-Depending on the need, Valerio will appoint experienced members of the community as administrators, who can help manage different aspects of the project. 
+Depending on the need, Valerio will appoint experienced members of the community as *lead researchers*, who can help manage different aspects of the project. 
 
 Contributors will steer all the aspects of the research project (e.g., topic selection, solution design / implementation, evaluation, etc). They will be involved at all levels, from ideation to implementation. 
 
