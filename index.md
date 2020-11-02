@@ -10,7 +10,7 @@ The project has a number of research-oriented goals:
 *   Develop an application, methodology, or algorithm that advances knowledge in the field of AI music. Contributors will choose the specific topic to work on together at the onset of the project.  
 *   Develop a code base with the new application / algorithm that other researchers can access openly.  
 *   Write up research results in an academic paper.
-*   Submit paper at the _The 2021 Joint Conference on AI Music Creativity_. The website for this conference has not been published yet. However, you can check out the website for [The 2020 Joint Conference on AI Music Creativity](https://boblsturm.github.io/aimusic2020/), to get an idea of the topics covered.  
+*   Submit paper at the _The 2021 Conference on AI Music Creativity_. The website for this conference has not been published yet. However, you can check out the website for [The 2020 Joint Conference on AI Music Creativity](https://boblsturm.github.io/aimusic2020/), to get an idea of the topics covered.  
 
 
 ## Who can get involved?
@@ -144,7 +144,7 @@ It is worth noting that these are general indications, which may be re-adjusted 
 
 #### 1. Topic selection
 
-In this phase, contributors will choose a topic that is in line with the scope of _The 2021 Joint Conference on AI Music Creativity._ 
+In this phase, contributors will choose a topic that is in line with the scope of _The 2021 Conference on AI Music Creativity._ 
 
 
 #### 2. Literature review
@@ -173,7 +173,7 @@ In this phase, contributors will write up the research they carried out.
 
 #### 7. Submission
 
-The paper will finally be submitted to _The 2021 Joint Conference on AI Music Creativity._ 
+The paper will finally be submitted to _The 2021 Conference on AI Music Creativity._ 
 
 
 #### 8. Revisions
@@ -213,5 +213,5 @@ The authors of the paper will be Valerio and The Sound of AI community.
 The project can indirectly provide insights into questions about research processes:
 
 *   Is there another viable way to carry out research that avoids the pitfalls of how research is traditionally carried out (e.g., focus on the number of papers published, rather than research quality)?
-*   Can open / crowdsourced research produce high-quality outputs?
+*   Can open / crowdsourced research produce high-quality output?
 *   Can contributors with different expertise collaborate effectively towards a common research goal? 
