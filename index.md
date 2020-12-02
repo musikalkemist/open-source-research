@@ -10,7 +10,7 @@ The project has a number of research-oriented goals:
 *   Develop an application, methodology, or algorithm that advances knowledge in the field of AI music. Contributors will choose the specific topic to work on together at the onset of the project.  
 *   Develop a code base with the new application / algorithm that other researchers can access openly.  
 *   Write up research results in an academic paper.
-*   Submit paper at the _The 2021 Conference on AI Music Creativity_. The website for this conference has not been published yet. However, you can check out the website for [The 2020 Joint Conference on AI Music Creativity](https://boblsturm.github.io/aimusic2020/), to get an idea of the topics covered.  
+*   Submit paper at the [2021 Conference on AI Music Creativity](https://aimc2021.iem.at/).  
 
 
 ## Who can get involved?
