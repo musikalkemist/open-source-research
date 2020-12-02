@@ -92,13 +92,16 @@ _The Sound of AI Slack_ workspace is the main venue where conversation among con
 
 All the conversations regarding the project will happen in the _#open-source-research_ channel. 
 
+##### Discord
+Discord will be used to host video conference calls of small research groups in parallel.
+
 ##### OpenSource Research mailing list
 
 The mailing list will be used to share general news, and let contributors know about upcoming meetups.
 
-##### Zoom
+##### GoogleMeet
 
-Zoom will be used to host conference calls for brainstorming and catch-up sessions.
+GoogleMeet will be used to host conference calls for brainstorming and catch-up sessions.
 
 #### Collaboration
 
@@ -128,10 +131,19 @@ A [Github repository](https://github.com/musikalkemist/open-source-research) wil
 
 ## Project roles
 
+### Project leader
 Valerio will coordinate the research project, and will choose the overall direction of the project based on the input coming from contributors. 
 
-Depending on the need, Valerio will appoint experienced members of the community as *lead researchers*, who can help manage different aspects of the project. 
+### Project managers
+There are two project managers: Fernando Garcia and Wassim Filali. Their role is to coordinate activities and contributors. They also plan workflows, goals, and schedule for different project phases
 
+### Research coordinators
+Research coordinators are in charge of a Research Group (RG). A research group is a team of 5-8 contributors focused on one research deliverable. Research coordinators plan work and dedlines for a RG following the overall goals set by project leader and project managers. They act as scrum masters for a RG.
+
+### Research co-coordinators (CoCos)
+CoCos provide logistical support to research coordinators.
+
+### Contributors
 Contributors will steer all the aspects of the research project (e.g., topic selection, solution design / implementation, evaluation, etc). They will be involved at all levels, from ideation to implementation. 
 
 
@@ -142,41 +154,46 @@ The project will be organised in a number of steps. Some of the steps may run in
 It is worth noting that these are general indications, which may be re-adjusted based on the needs and specificity of the chosen research topic.
 
 
-#### 1. Topic selection
+#### 1. Preparation
+
+In this phase, contributors will get familiar with the AI Music Creativity space, project managers will be identified, and contributors can apply as research coordinators and co-coordinators.
+
+
+#### 2. Topic selection
 
 In this phase, contributors will choose a topic that is in line with the scope of _The 2021 Conference on AI Music Creativity._ 
 
 
-#### 2. Literature review
+#### 3. Literature review
 
 During this step, contributors will gather, analyse, and discuss papers from the scientific literature that are related to the topic of interest. They will outline existing weaknesses and limitations in current solutions and suggest what is missing. 
 
 
-#### 3. Solution design
+#### 4. Solution design
 
 In this step, contributors will have brainstorming sessions in order to come up with tentative solutions that address the chosen topic / problem. 
 
 
-#### 4. Solution implementation
+#### 5. Solution implementation
 
 In this phase, contributors will develop the solution. This will likely be in the form of code.
 
 
-#### 5. Evaluation
+#### 6. Evaluation
 
 During this step, members will evaluate the validity of the proposed solution. Depending on the chosen topic, this will happen in different ways. For example, the proposed model(s) can be tested against other base-line solutions, or they can be evaluated using user studies.
 
 
-#### 6. Write up
+#### 7. Write up
 
 In this phase, contributors will write up the research they carried out.
 
-#### 7. Submission
+#### 8. Submission
 
 The paper will finally be submitted to _The 2021 Conference on AI Music Creativity._ 
 
 
-#### 8. Revisions
+#### 9. Revisions
 
 In this phase, contributors will address the concerns of the reviewers and resubmit the improved paper.
 
@@ -185,12 +202,13 @@ In this phase, contributors will address the concerns of the reviewers and resub
 
 Even though it is difficult to come up with a reliable timeline at this point, I will propose a tentative one: 
 
-1. Topic selection  - 2 weeks
-2. Literature review - 4 weeks
-3. Solution design - 3 weeks
-4. Solution implementation - 6 weeks
-5. Evaluation - 4 weeks
-6. Write up - 4 weeks
+1. Preparation - 2 weeks
+2. Topic selection  - 2 weeks
+3. Literature review - 4 weeks
+4. Solution design - 3 weeks
+5. Solution implementation - 6 weeks
+6. Evaluation - 4 weeks
+7. Write up - 4 weeks
 
 
 ## License and authorship
